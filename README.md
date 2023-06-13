@@ -13,6 +13,15 @@ The CheaPad is a community-driven initiative aimed at creating an affordable and
 - **Community-Driven:** The project emphasizes community collaboration and encourages users to modify and suggest improvements to the design. Step and f3d files are available for customization.
 - **Functionality First:** While the primary focus of the CheaPad is functionality, it still offers a reliable and efficient performance, even though it may not prioritize aesthetics.
 
+## How Does It Works ?
+1. **Select the Corresponding Configuration File:** Choose the configuration file from the CheaPad project repository that corresponds to your specific printer model. These opinionated configuration files serve as a starting point for your setup.
+
+2. **Replace the printer.cfg File:** Once you have identified the appropriate configuration file for your printer, replace the existing "printer.cfg" file in your Klipper firmware with the one you copied from the CheaPad project repository. This file contains the specific settings and parameters for your printer.
+
+3. **Flash Klipper to the Printer:** After updating the "printer.cfg" file, you need to flash the modified Klipper firmware onto your printer's control board. This process involves transferring the updated firmware to your printer, replacing the previous firmware, and enabling the new configuration.
+
+By following these steps, you can effectively integrate the CheaPad configuration into your printer setup and take advantage of the optimized settings provided. Remember that these configuration files serve as a starting point and require further customization and calibration to achieve optimal performance with your specific printer model.
+
 ## Important Considerations
 Additionally, the CheaPad project's GitHub repository includes opinionated configuration files tailored to specific printers. It's important to note that these files are not readily usable as they require adaptation and customization. Users will need to perform essential calibrations and adjustments to achieve optimal results with their specific printer models. The following calibrations and adjustments should be considered and addressed: 
 
