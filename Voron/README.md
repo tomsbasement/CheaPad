@@ -1,0 +1,1 @@
+If you're looking for a great configuration for your Voron, I can only recommend Frix's great work on his "Klippain" project, which you can get at the following URL: https://github.com/Frix-x/klippain
