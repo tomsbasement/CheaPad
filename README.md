@@ -7,6 +7,8 @@ Join the CheaPad community today, and together, let's revolutionize the world of
 ## Introduction
 The CheaPad is a community-driven initiative aimed at creating an affordable and functional Klipper pad solution. By utilizing the BTT Pi and TFT35 SPI as its base, the CheaPad offers seamless integration with existing 3D printer setups.
 
+As a DIY project, you can download the printable files to build the case here : https://www.printables.com/fr/model/499763-the-cheapad-btt-pi-tft35-spi-the-cheapest-klipper-
+
 ## Key Features
 - **Cost-Efficient:** The CheaPad provides a cost-effective alternative to other Klipper pads on the market, allowing enthusiasts to enhance their printing experience without breaking the bank.
 - **Minimalist Design:** With a minimalist design approach, the CheaPad offers a compact and space-saving solution for your 3D printer setup.
